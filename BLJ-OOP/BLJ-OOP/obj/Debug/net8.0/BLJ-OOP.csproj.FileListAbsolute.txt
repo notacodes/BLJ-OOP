@@ -1,0 +1,15 @@
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\bin\Debug\net8.0\BLJ-OOP.exe
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\bin\Debug\net8.0\BLJ-OOP.deps.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\bin\Debug\net8.0\BLJ-OOP.runtimeconfig.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\bin\Debug\net8.0\BLJ-OOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\bin\Debug\net8.0\BLJ-OOP.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.AssemblyInfoInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.AssemblyInfo.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.csproj.CoreCompileInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.sourcelink.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\refint\BLJ-OOP.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\BLJ-OOP.genruntimeconfig.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\BLJ-OOP\obj\Debug\net8.0\ref\BLJ-OOP.dll

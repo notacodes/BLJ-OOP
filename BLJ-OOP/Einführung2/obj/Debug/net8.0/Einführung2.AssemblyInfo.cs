@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BLJ-OOP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Einführung2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c21bfeafc5d4fa04dbbadb9a5721e98f9825755")]
-[assembly: System.Reflection.AssemblyProductAttribute("BLJ-OOP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BLJ-OOP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Einführung2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Einführung2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

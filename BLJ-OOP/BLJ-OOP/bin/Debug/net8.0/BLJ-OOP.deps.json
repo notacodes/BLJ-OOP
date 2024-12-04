@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BLJ-OOP/1.0.0": {
+        "runtime": {
+          "BLJ-OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLJ-OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

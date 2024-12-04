@@ -1,24 +1,17 @@
 namespace Einführung2;
 
-class Motorcycle
+class Motorcycle : Vehicle
 {
-    private string Brand { get; set;}
-    private string Color {get; set;}
     private int Drivers {get; set;}
     
- internal Motorcycle(string brand, string color, int drivers)
+ internal Motorcycle(string brand, string color, int drivers) : base( brand, color)
     {
-        this.Brand = brand;
-        this.Color = color;
         this.Drivers = drivers;
     }
     
-    internal void Move()
+    internal override void Move()
     {
-        Console.WriteLine("Das Motorrad fährt");
+        Console.WriteLine("Das Auto fährt");
     }
-    internal void PrintInfo()
-    {
-        Console.WriteLine("Motorrad: " + Brand + ", " + Color + ", Plätze: " + Drivers);
-    }
+    
 }

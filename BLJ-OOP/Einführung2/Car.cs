@@ -1,24 +1,18 @@
 namespace Einführung2;
 
-class Car
+class Car : Vehicle
 {
-    private string Brand { get; set;}
-    private string Color {get; set;}
+ 
     private int Ps {get; set;}
     
-    internal Car(string brand, string color, int ps)
+    internal Car(string brand, string color, int ps) :base(brand, color)
     {
-        this.Brand = brand;
-        this.Color = color;
         this.Ps = ps;
     }
     
-    internal void Move()
+    internal override void Move()
     {
         Console.WriteLine("Das Auto fährt");
     }
-    internal void PrintInfo()
-    {
-        Console.WriteLine("Auto: " + Brand + ", " + Color + ", PS: " + Ps);
-    }
+   
 }

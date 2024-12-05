@@ -1,0 +1,15 @@
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\bin\Debug\net8.0\Einführung2.exe
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\bin\Debug\net8.0\Einführung2.deps.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\bin\Debug\net8.0\Einführung2.runtimeconfig.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\bin\Debug\net8.0\Einführung2.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\bin\Debug\net8.0\Einführung2.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.AssemblyInfoInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.AssemblyInfo.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.sourcelink.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\refint\Einführung2.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\Einführung2.genruntimeconfig.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Einführung2\obj\Debug\net8.0\ref\Einführung2.dll

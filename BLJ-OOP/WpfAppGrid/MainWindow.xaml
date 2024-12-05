@@ -8,12 +8,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="70"/>
-            <RowDefinition/>
-            <RowDefinition Height="70"/>
+            <RowDefinition Height="125"/>
+            <RowDefinition Height="125"/>
+            <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
-        <Rectangle Grid.Row="0"  Fill="Blue"></Rectangle>
-        <Rectangle Grid.Row="1" Fill="Red"></Rectangle>
-        <Rectangle Grid.Row="2" Fill="Green"></Rectangle>
+        <TextBlock Grid.Row="0" VerticalAlignment="Center" FontSize="20" Text="Breite des Rechtecks" Margin="40" Name="tbBreite"></TextBlock>
+        <TextBox Grid.Row="0" VerticalAlignment="Center" FontSize="20" Name="tfBreite" Margin="200" Background="Gray"></TextBox>
     </Grid>
 </Window>

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGrid", "WpfAppGrid\WpfAppGrid.csproj", "{2E4234FF-693C-41AE-B37B-1FC5E82EC736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe Rechteck", "Aufgabe Rechteck\Aufgabe Rechteck.csproj", "{10310CFE-B631-498B-A720-350C20C0842E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2E4234FF-693C-41AE-B37B-1FC5E82EC736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4234FF-693C-41AE-B37B-1FC5E82EC736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4234FF-693C-41AE-B37B-1FC5E82EC736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10310CFE-B631-498B-A720-350C20C0842E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10310CFE-B631-498B-A720-350C20C0842E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10310CFE-B631-498B-A720-350C20C0842E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10310CFE-B631-498B-A720-350C20C0842E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

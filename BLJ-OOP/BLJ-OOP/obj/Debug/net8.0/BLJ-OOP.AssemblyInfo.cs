@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLJ-OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c21bfeafc5d4fa04dbbadb9a5721e98f9825755")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18395091104f34de9cc9ba8f7e36e2b670ae0b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLJ-OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLJ-OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

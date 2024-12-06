@@ -1,0 +1,31 @@
+﻿<Window x:Class="Aufgabe_Rechteck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aufgabe_Rechteck"
+        mc:Ignorable="d"
+        Title="Rechteck Berechnung" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="125"/>
+            <RowDefinition Height="125"/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+
+        <!-- Eingabe für die Breite -->
+        <TextBlock Grid.Row="0" VerticalAlignment="Center" FontSize="20" Text="Breite des Rechtecks:" Margin="40" Name="tbBreite"/>
+        <TextBox Grid.Row="0" VerticalAlignment="Center" FontSize="20" Name="txtBreite" Margin="200,0,0,0" Width="200" Height="30"/>
+        
+        <!-- Eingabe für die Länge -->
+        <TextBlock Grid.Row="1" VerticalAlignment="Center" FontSize="20" Text="Länge des Rechtecks:" Margin="40" Name="tbLänge"/>
+        <TextBox Grid.Row="1" VerticalAlignment="Center" FontSize="20" Name="txtLänge" Margin="200,0,0,0" Width="200" Height="30"/>
+        
+        <!-- Berechnungsergebnis -->
+        <TextBlock Grid.Row="2" VerticalAlignment="Top" FontSize="20" Text="Ergebnis:" Margin="40,10,0,0" Name="tbErgebnis"/>
+        
+        <!-- Buttons -->
+        <Button Grid.Row="2" Width="150" Height="30" Content="Berechnen" HorizontalAlignment="Left" Margin="40,50,0,0" Click="Berechnen_Click"/>
+        <Button Grid.Row="2" Width="150" Height="30" Content="Beenden" HorizontalAlignment="Right" Margin="0,50,40,0" Click="Beenden_Click"/>
+    </Grid>
+</Window>

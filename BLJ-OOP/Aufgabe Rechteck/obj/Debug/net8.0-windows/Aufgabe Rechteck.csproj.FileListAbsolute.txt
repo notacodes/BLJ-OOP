@@ -1,0 +1,21 @@
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\bin\Debug\net8.0-windows\Aufgabe Rechteck.exe
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\bin\Debug\net8.0-windows\Aufgabe Rechteck.deps.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\bin\Debug\net8.0-windows\Aufgabe Rechteck.runtimeconfig.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\bin\Debug\net8.0-windows\Aufgabe Rechteck.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\bin\Debug\net8.0-windows\Aufgabe Rechteck.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck_MarkupCompile.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck_MarkupCompile.lref
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.g.resources
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.AssemblyInfoInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.AssemblyInfo.cs
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.sourcelink.json
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\refint\Aufgabe Rechteck.dll
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.pdb
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\Aufgabe Rechteck.genruntimeconfig.cache
+C:\Users\jonat\iCloudDrive\Basislehrjahr\BLJ-OOP\BLJ-OOP\Aufgabe Rechteck\obj\Debug\net8.0-windows\ref\Aufgabe Rechteck.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppGrid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26a58466eb09a2039d3aa01206b0a70e473e09b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4483af7741442ba44501abca23cf3d59f0ba018b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppGrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppGrid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

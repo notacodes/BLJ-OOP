@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mondreise2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb117b6da62d37328408ec52b9d52d83e2d44e03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c33cddea87af24bd1308540f54036a6bc8bd31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mondreise2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mondreise2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

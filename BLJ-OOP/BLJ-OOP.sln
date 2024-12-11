@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WürfelToGo", "WürfelToGo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mondreise2", "Mondreise2\Mondreise2.csproj", "{FD1B049B-5AFF-4D39-A04F-3C4C11792BD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tannenbaum", "Tannenbaum\Tannenbaum.csproj", "{8BF73A5D-2BF2-4240-BF3D-E70DA8A868A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto Simulator", "Auto Simulator\Auto Simulator.csproj", "{4519E283-90E4-4B28-9B7E-DADFE097817E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{FD1B049B-5AFF-4D39-A04F-3C4C11792BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1B049B-5AFF-4D39-A04F-3C4C11792BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1B049B-5AFF-4D39-A04F-3C4C11792BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF73A5D-2BF2-4240-BF3D-E70DA8A868A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF73A5D-2BF2-4240-BF3D-E70DA8A868A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF73A5D-2BF2-4240-BF3D-E70DA8A868A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF73A5D-2BF2-4240-BF3D-E70DA8A868A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4519E283-90E4-4B28-9B7E-DADFE097817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4519E283-90E4-4B28-9B7E-DADFE097817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4519E283-90E4-4B28-9B7E-DADFE097817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4519E283-90E4-4B28-9B7E-DADFE097817E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aufgabe Rechteck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4483af7741442ba44501abca23cf3d59f0ba018b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c33cddea87af24bd1308540f54036a6bc8bd31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aufgabe Rechteck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aufgabe Rechteck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

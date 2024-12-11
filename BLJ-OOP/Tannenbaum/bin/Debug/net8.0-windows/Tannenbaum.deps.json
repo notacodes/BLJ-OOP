@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tannenbaum/1.0.0": {
+        "runtime": {
+          "Tannenbaum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tannenbaum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

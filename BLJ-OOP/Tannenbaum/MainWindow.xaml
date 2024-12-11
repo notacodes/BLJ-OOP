@@ -1,0 +1,26 @@
+﻿<Window x:Class="Tannenbaum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tannenbaum"
+        mc:Ignorable="d"
+        Title="Tannenbaum Zeichnen" Height="400" Width="600">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Breite des Stammes:"/>
+            <TextBox x:Name="txtStammBreite" Width="200"/>
+            
+            <TextBlock Text="Höhe des Stammes:"/>
+            <TextBox x:Name="txtStammHoehe" Width="200"/>
+            
+            <TextBlock Text="Höhe der Krone:"/>
+            <TextBox x:Name="txtKronenHoehe" Width="200"/>
+            
+            <Button Content="Zeichnen" Click="Button_Zeichnen" Margin="0,10,0,0" Width="200"/>
+            
+            <TextBlock Text="Ergebnis:" Margin="0,20,0,0"/>
+            <TextBox x:Name="txtErgebnis" IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Height="200"/>
+        </StackPanel>
+    </Grid>
+</Window>
